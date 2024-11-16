@@ -16,7 +16,8 @@ Each solution is organized by problem number and includes:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hitaarthh/LeetCode-Solutions.git```
+   git clone https://github.com/hitaarthh/LeetCode-Solutions.git
+   ```
 
 **Steps to Implement**:
 
