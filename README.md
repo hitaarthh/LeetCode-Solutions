@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![LeetCode Stats](https://leetcode.card.workers.dev/hitaarthh?theme=dark&font=baloo&extension=null)
+![](https://leetcard.jacoblin.cool/hitaarthh?ext=contest)
 
 This repository contains my solutions to LeetCode problems, automatically updated using the [LeetHub](https://github.com/QasimWani/LeetHub) extension.
 
