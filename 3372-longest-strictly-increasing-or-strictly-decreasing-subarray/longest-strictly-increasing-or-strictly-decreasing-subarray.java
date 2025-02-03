@@ -1,5 +1,4 @@
 class Solution {
-  // Similar to 978. Longest Turbulent Subarray
   public int longestMonotonicSubarray(int[] nums) {
     int ans = 1;
     int increasing = 1;
