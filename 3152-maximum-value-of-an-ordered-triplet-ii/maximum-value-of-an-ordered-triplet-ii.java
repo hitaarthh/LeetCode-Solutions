@@ -1,5 +1,4 @@
 class Solution {
-  // Same as 2873. Maximum Value of an Ordered Triplet I
   public long maximumTripletValue(int[] nums) {
     long ans = 0;
     int maxDiff = 0; // max(nums[i] - nums[j])
