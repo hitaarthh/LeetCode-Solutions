@@ -7,13 +7,11 @@ class Solution {
         if(a+b<=c || a+c<=b || b+c<=a)
             return "none";
         else
-        {
             if(a==b && b==c)
                 return "equilateral";
             else if (a==b || b==c || c==a)
                 return "isosceles";
             else
                 return "scalene";
-        }
     }
 }
